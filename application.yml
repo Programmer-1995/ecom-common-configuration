@@ -16,4 +16,8 @@ microservice:
     endPoints:
       fetchUserById:
         uri: http://USER-SERVICE/api/users/
+
+logging:
+  file:
+    path: E:/java_learning/javatechie/masterclass_ms/ms-boot/app-logs/ecom-log        
       
