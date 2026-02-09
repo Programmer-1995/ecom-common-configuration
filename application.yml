@@ -19,5 +19,5 @@ microservice:
 
 logging:
   file:
-    name: E:/java_learning/javatechie/masterclass_ms/ms-boot/app-logs/ecom-log        
+    name: E:/java_learning/javatechie/masterclass_ms/ms-boot/app-logs/ecom-logs.log        
       
